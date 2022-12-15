@@ -12,6 +12,8 @@
 
 **How to know picamera is connected on to the Raspberry Pi** 
     
+>$ vcgencmd get_camera
+`$ vcgencmd get_camera`
 *$ vcgencmd get_camera*
     
 ### 3. run PiCamera
